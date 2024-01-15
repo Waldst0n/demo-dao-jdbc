@@ -1,12 +1,7 @@
 package application;
 
-import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
-
-import javax.xml.crypto.KeySelectorResult;
-
-import com.mysql.cj.x.protobuf.MysqlxDatatypes.Scalar;
 
 import model.dao.DaoFactory;
 import model.dao.SellerDao;
